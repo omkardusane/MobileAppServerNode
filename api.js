@@ -86,6 +86,6 @@ api.post("/signIn",function(req,res){
 
 
 
-api.listen(3000,function(){
-    console.log('running on 3000');
+api.listen(80,function(){
+    console.log('running on 80');
 });
