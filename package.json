@@ -1,7 +1,7 @@
 {
   "name": "azuredemoserver",
   "version": "1.0.0",
-  "description": "",
+  "description": "test app",
   "main": "api.js",
   "scripts": {
     "start":"node api.js",
