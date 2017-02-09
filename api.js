@@ -90,6 +90,6 @@ api.post("/signIn",function(req,res){
 
 
 
-api.listen(80,function(){
-    console.log('running on 80');
+api.listen(1337,function(){
+    console.log('running on 1337 or 8 ');
 });
