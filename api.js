@@ -46,9 +46,9 @@ api.post("/signUp",function(req,res){
 
 });
 
-api.get('/',(req,res=>{
+api.get('/',(req,res)=>{
     res.send('Here you are , welcome');
-}))
+});
 
 api.get('/sample',function(req,res){
     console.log('im here');
